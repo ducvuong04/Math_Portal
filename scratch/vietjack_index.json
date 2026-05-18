@@ -1,0 +1,523 @@
+{
+  "10": [
+    {
+      "chapter": "Lý thuyết Chương 5: Các số đặc trưng của mẫu số liệu không ghép nhóm",
+      "title": "Trang sau",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-1-menh-de.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 2: Tập hợp và các phép toán trên tập hợp",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-2-tap-hop-va-cac-phep-toan-tren-tap-hop.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 10 Chương 1",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-tap-cuoi-chuong-1.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 2: Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+      "title": "Lý thuyết Bài 3: Bất phương trình bậc nhất hai ẩn",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-3-bat-phuong-trinh-bac-nhat-hai-an.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 4: Hệ bất phương trình bậc nhất hai ẩn",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-4-he-bat-phuong-trinh-bac-nhat-hai-an.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 10 Chương 2",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-tap-cuoi-chuong-2.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 3: Hệ thức lượng trong tam giác",
+      "title": "Lý thuyết Bài 5: Giá trị lượng giác của một góc từ 0° đến 180°",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-5-gia-tri-luong-giac-cua-mot-goc-tu-0-den-180.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 6: Hệ thức lượng trong tam giác",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-6-he-thuc-luong-trong-tam-giac.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 10 Chương 3",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-tap-cuoi-chuong-3.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 4: Vectơ",
+      "title": "Lý thuyết Bài 7: Các khái niệm mở đầu",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-7-cac-khai-niem-mo-dau.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 8: Tổng và hiệu của hai vectơ",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-8-tong-va-hieu-cua-hai-vecto.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 9: Tích của một vectơ với một số",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-9-tich-cua-mot-vecto-voi-mot-so.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 10: Vectơ trong mặt phẳng tọa độ",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-10-vecto-trong-mat-phang-toa-do.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 11: Tích vô hướng của hai vectơ",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-11-tich-vo-huong-cua-hai-vecto.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 10 Chương 4",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-tap-cuoi-chuong-4.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 5: Các số đặc trưng của mẫu số liệu không ghép nhóm",
+      "title": "Lý thuyết Bài 12: Số gần đúng và sai số",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-12-so-gan-dung-va-sai-so.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 13: Các số đặc trưng đo xu thế trung tâm",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-13-cac-so-dac-trung-do-xu-the-trung-tam.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 14: Các số đặc trưng đo độ phân tán",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-14-cac-so-dac-trung-do-do-phan-tan.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 10 Chương 5",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-tap-cuoi-chuong-5.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 6: Hàm số, đồ thị và ứng dụng",
+      "title": "Lý thuyết Bài 15: Hàm số",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-15-ham-so.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 16: Hàm số bậc hai",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-16-ham-so-bac-hai.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 17: Dấu của tam thức bậc hai",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-17-dau-cua-tam-thuc-bac-hai.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 18: Phương trình quy về phương trình bậc hai",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-18-phuong-trinh-quy-ve-phuong-trinh-bac-hai.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 10 Chương 6",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-tap-cuoi-chuong-6.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 7: Phương pháp tọa độ trong mặt phẳng",
+      "title": "Lý thuyết Bài 19: Phương trình đường thẳng",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-19-phuong-trinh-duong-thang.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 20: Vị trí tương đối giữa hai đường thẳng. Góc và khoảng cách",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-20-vi-tri-tuong-doi-giua-hai-duong-thang-goc.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 21: Đường tròn trong mặt phẳng tọa độ",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-21-duong-tron-trong-mat-phang-toa-do.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 22: Ba đường conic",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-22-ba-duong-conic.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 10 Chương 7",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-tap-cuoi-chuong-7.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 8: Đại số tổ hợp",
+      "title": "Lý thuyết Bài 23: Quy tắc đếm",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-23-quy-tac-dem.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 24: Hoán vị, chỉnh hợp và tổ hợp",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-24-hoan-vi-chinh-hop-va-to-hop.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 25: Nhị thức Newton",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-25-nhi-thuc-newton.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 10 Chương 8",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-tap-cuoi-chuong-8.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 9: Tính xác suất theo định nghĩa cổ điển",
+      "title": "Lý thuyết Bài 26: Biến cố và định nghĩa cổ điển của xác suất",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-26-bien-co-va-dinh-nghia-co-dien-cua-xac-suat.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 27: Thực hành tính xác suất theo định nghĩa cổ điển",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-27-thuc-hanh-tinh-xac-suat-theo-dinh-nghia-co-dien.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 10 Chương 9",
+      "link": "https://vietjack.com/toan-10-kn/ly-thuyet-bai-tap-cuoi-chuong-9.jsp"
+    }
+  ],
+  "11": [
+    {
+      "chapter": "Lý thuyết Chương 5: Giới hạn. Hàm số liên tục",
+      "title": "Trang sau",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-1-gia-tri-luong-giac-cua-goc-luong-giac.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 2: Công thức lượng giác",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-2-cong-thuc-luong-giac.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 3: Hàm số lượng giác",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-3-ham-so-luong-giac.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 4: Phương trình lượng giác cơ bản",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-4-phuong-trinh-luong-giac-co-ban.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 11 Chương 1",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-tap-cuoi-chuong-1.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 2: Dãy số. Cấp số cộng và cấp số nhân",
+      "title": "Lý thuyết Bài 5: Dãy số",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-5-day-so.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 6: Cấp số cộng",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-6-cap-so-cong.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 7: Cấp số nhân",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-7-cap-so-nhan.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 11 Chương 2",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-tap-cuoi-chuong-2.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 3: Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "title": "Lý thuyết Bài 8: Mẫu số liệu ghép nhóm",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-8-mau-so-lieu-ghep-nhom.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 9: Các số đặc trưng đo xu thế trung tâm",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 11 Chương 3",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-tap-cuoi-chuong-3.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 4: Quan hệ song song trong không gian",
+      "title": "Lý thuyết Bài 10: Đường thẳng và mặt phẳng trong không gian",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-10-duong-thang-va-mat-phang-trong-khong-gian.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 11: Hai đường thẳng song song",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-11-hai-duong-thang-song-song.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 12: Đường thẳng và mặt phẳng song song",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-12-duong-thang-va-mat-phang-song-song.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 13: Hai mặt phẳng song song",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-13-hai-mat-phang-song-song.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 14: Phép chiếu song song",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-14-phep-chieu-song-song.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 11 Chương 4",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-tap-cuoi-chuong-4.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 5: Giới hạn. Hàm số liên tục",
+      "title": "Lý thuyết Bài 15: Giới hạn của dãy số",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-15-gioi-han-cua-day-so.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 16: Giới hạn của hàm số",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-16-gioi-han-cua-ham-so.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 17: Hàm số liên tục",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-17-ham-so-lien-tuc.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 11 Chương 5",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-tap-cuoi-chuong-5.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 6: Hàm số mũ và hàm số lôgarit",
+      "title": "Lý thuyết Bài 18: Lũy thừa với số mũ thực",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-18-luy-thua-voi-so-mu-thuc.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 19: Lôgarit",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-19-logarit.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 20: Hàm số mũ và hàm số lôgarit",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-20-ham-so-mu-va-ham-so-logarit.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 21: Phương trình, bất phương trình mũ và lôgarit",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-21-phuong-trinh-bat-phuong-trinh-mu-va-logarit.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 11 Chương 6",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-tap-cuoi-chuong-6.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 7: Quan hệ vuông góc trong không gian",
+      "title": "Lý thuyết Bài 22: Hai đường thẳng vuông góc",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-22-hai-duong-thang-vuong-goc.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 23: Đường thẳng vuông góc với mặt phẳng",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-23-duong-thang-vuong-goc-voi-mat-phang.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 24: Phép chiếu vuông góc. Góc giữa đường thẳng và mặt phẳng",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-24-phep-chieu-vuong-goc.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 25: Hai mặt phẳng vuông góc",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-25-hai-mat-phang-vuong-goc.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 26: Khoảng cách",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-26-khoang-cach.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 27: Thể tích",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-27-the-tich.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 11 Chương 7",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-tap-cuoi-chuong-7.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 8: Các quy tắc tính xác suất",
+      "title": "Lý thuyết Bài 28: Biến cố hợp, biến cố giao, biến cố độc lập",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-28-bien-co-hop-bien-co-giao.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 29: Công thức cộng xác suất",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-29-cong-thuc-cong-xac-suat.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 30: Công thức nhân xác suất cho hai biến cố độc lập",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-30-cong-thuc-nhan-xac-suat-cho-hai-bien-co.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 11 Chương 8",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-tap-cuoi-chuong-8.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 9: Đạo hàm",
+      "title": "Lý thuyết Bài 31: Định nghĩa và ý nghĩa của đạo hàm",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-31-dinh-nghia-va-y-nghia-cua-dao-ham.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 32: Các quy tắc tính đạo hàm",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-32-cac-quy-tac-tinh-dao-ham.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 33: Đạo hàm cấp hai",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-33-dao-ham-cap-hai.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 11 Chương 9",
+      "link": "https://vietjack.com/toan-11-kn/ly-thuyet-bai-tap-cuoi-chuong-9.jsp"
+    }
+  ],
+  "12": [
+    {
+      "chapter": "Lý thuyết Chương 6: Xác suất có điều kiện",
+      "title": "Trang sau",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-1-tinh-don-dieu-va-cuc-tri-cua-ham-so.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 2: Giá trị lớn nhất và giá trị nhỏ nhất của hàm số",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-2-gia-tri-lon-nhat-va-gia-tri-nho-nhat-cua.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 3: Đường tiệm cận của đồ thị hàm số",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-3-duong-tiem-can-cua-do-thi-ham-so.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 4: Khảo sát sự biến thiên và vẽ đồ thị của hàm số",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-4-khao-sat-su-bien-thien-va-ve-do-thi-cua.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 5: Ứng dụng đạo hàm để giải quyết một số vấn đề liên quan đến thực tiễn",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-5-ung-dung-dao-ham-de-giai-quyet-mot-so-van.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 12 Chương 1",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-tap-cuoi-chuong-1.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 2: Vectơ và hệ trục tọa độ trong không gian",
+      "title": "Lý thuyết Bài 6: Vectơ trong không gian",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-6-vecto-trong-khong-gian.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 7: Hệ trục toạ độ trong không gian",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-7-he-truc-toa-do-trong-khong-gian.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 8: Biểu thức toạ độ của các phép toán vectơ",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-8-bieu-thuc-toa-do-cua-cac-phep-toan-vecto.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 12 Chương 2",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-tap-cuoi-chuong-2.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 3: Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm",
+      "title": "Lý thuyết Bài 9: Khoảng biến thiên và khoảng tứ phân vị",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-9-khoang-bien-thien-va-khoang-tu-phan-vi.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Bài 10: Phương sai và độ lệch chuẩn",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-10-phuong-sai-va-do-lech-chuan.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 12 Chương 3",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-tap-cuoi-chuong-3.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 4: Nguyên hàm và tích phân",
+      "title": "Lý thuyết Toán 12 Bài 11: Nguyên hàm",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-11-nguyen-ham.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Toán 12 Bài 12: Tích phân",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-12-tich-phan.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Toán 12 Bài 13: Ứng dụng hình học của tích phân",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-13-ung-dung-hinh-hoc-cua-tich-phan.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 12 Chương 4",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-tap-cuoi-chuong-4.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 5: Phương pháp tọa độ trong không gian",
+      "title": "Lý thuyết Toán 12 Bài 14: Phương trình mặt phẳng",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-14-phuong-trinh-mat-phang.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Toán 12 Bài 15: Phương trình đường thẳng trong không gian",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-15-phuong-trinh-duong-thang-trong-khong-gian.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Toán 12 Bài 16: Công thức tính góc trong không gian",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-16-cong-thuc-tinh-goc-trong-khong-gian.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Toán 12 Bài 17: Phương trình mặt cầu",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-17-phuong-trinh-mat-cau.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 12 Chương 5",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-tap-cuoi-chuong-5.jsp"
+    },
+    {
+      "chapter": "Lý thuyết Chương 6: Xác suất có điều kiện",
+      "title": "Lý thuyết Toán 12 Bài 18: Xác suất có điều kiện",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-18-xac-suat-co-dieu-kien.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Lý thuyết Toán 12 Bài 19: Công thức xác suất toàn phần và công thức Bayes",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-19-cong-thuc-xac-suat-toan-phan-va-cong-thuc-bayes.jsp"
+    },
+    {
+      "chapter": "Chương Mặc Định",
+      "title": "Tổng hợp lý thuyết Toán 12 Chương 6",
+      "link": "https://vietjack.com/toan-12-kn/ly-thuyet-bai-tap-cuoi-chuong-6.jsp"
+    }
+  ]
+}

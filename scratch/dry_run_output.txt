@@ -1,0 +1,469 @@
+=== ORIGINAL TOPIC 105 ===
+<div class="col-md-7 middle-col">
+<h1 class="title">Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)</h1>
+<!-- grade 11 -->
+<p>Với tóm tắt lý thuyết Toán 11 Bài 9: Các số đặc trưng đo xu thế trung tâm sách Kết nối tri thức hay nhất, chi tiết 
+sẽ giúp học sinh lớp 11 nắm vững kiến thức trọng tâm, ôn luyện để học tốt môn Toán 11.</p>
+<div class="vj-toc">
+<ul>
+<li><a href="../toan-11-kn/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam.jsp#lythuyet">Lý thuyết Các số đặc trưng đo xu thế trung tâm</a></li>
+<li><a href="../toan-11-kn/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam.jsp#baitap">Bài tập Các số đặc trưng đo xu thế trung tâm</a></li>
+<li><a href="../toan-11-kn/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam.jsp#hoctot">Học tốt Các số đặc trưng đo xu thế trung tâm</a></li>
+</ul>
+</div>
+<h2 class="sub-title">Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)</h2>
+
+<div class="ads_ads ads_article_1">
+ app MathPortal dethi 
+<ins class="adsbygoogle" data-ad-client="ca-pub-2373417360267295" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="8524532092" style="display:block; text-align:center;"></ins>
+</div>
+<p style="text-align:center;">Bài giảng: <b>Bài 9: Các số đặc trưng đo xu thế trung tâm - Cô Hoàng Xuân (Giáo viên MathPortal)</b></p>
+<a name="lythuyet"></a>
+<h3 style="text-align:center;"><b style="color:#0070c0;">Lý thuyết Các số đặc trưng đo xu thế trung tâm</b></h3>
+<p><strong sty
+... truncated ...
+
+=== CLEANED TOPIC 105 ===
+<div class="col-md-7 middle-col">
+<h1 class="title">Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)</h1>
+<!-- grade 11 -->
+<p>Với tóm tắt lý thuyết Toán 11 Bài 9: Các số đặc trưng đo xu thế trung tâm sách Kết nối tri thức hay nhất, chi tiết 
+sẽ giúp học sinh lớp 11 nắm vững kiến thức trọng tâm, ôn luyện để học tốt môn Toán 11.</p>
+
+<h2 class="sub-title">Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)</h2>
+<div class="ads_ads ads_article_1">
+ app MathPortal dethi 
+<ins class="adsbygoogle" data-ad-client="ca-pub-2373417360267295" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="8524532092" style="display:block; text-align:center;"></ins>
+</div>
+<p style="text-align:center;">Bài giảng: <b>Bài 9: Các số đặc trưng đo xu thế trung tâm - Cô Hoàng Xuân (Giáo viên MathPortal)</b></p>
+
+<h3 style="text-align:center;"><b style="color:#0070c0;">Lý thuyết Các số đặc trưng đo xu thế trung tâm</b></h3>
+<p><strong style="color:#00b050;">1. Số trung bình của mẫu số liệu ghép nhóm </strong></p>
+<p>Cho mẫu số liệu ghép nhóm:</p>
+<p><img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" height="99" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185061.PNG" width="546"/></p>
+<p><strong><em>Số trung bình</em></strong> của mẫu số liệu ghép nhóm, kí hiệu là <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mi>x</mi><mo>¯</mo></mover></math> .</p>
+<p><math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mi>x</mi><mo>¯</mo></mover><mo>=</mo><mfrac><mrow><msub><mi>m</mi><mn>1</mn></msub><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><mn>...</mn><mo>+</mo><msub><mi>m</mi><mi>k</mi></msub><msub><mi>x</mi><mi>k</mi></msub></mrow><mi>n</mi></mfrac></math></p>
+<p>trong đó, n = m<sub>1</sub> + … + m<sub>k</sub> là cỡ mẫu và <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>x</mi><mi>i</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>a</mi><mi>i</mi></msub><mo>+</mo><msub><mi>a</mi><mrow><mi>i</mi><mo>+</mo><mn>1</mn></mrow></msub></mrow><mn>2</mn></mfrac></math> (với i = 1, …, k) là giá trị đại diện của nhóm [a<sub>i</sub>; a<sub>i+1</sub>).</p>
+<!-- ad grade 11 -->
+<p><strong>Chú ý:</strong> Đối với số liệu rời rạc, người ta thường cho các nhóm dưới dạng k<sub>1</sub> – k<sub>2</sub>, trong đó k<sub>1</sub>, k<sub>2</sub> ∈ ℕ. Nhóm k<sub>1</sub> – k<sub>2</sub> được hiểu là nhóm gồm các giá trị k<sub>1</sub>, k<sub>1 </sub>+ 1, …, k<sub>2</sub>. Khi đó, ta cần hiệu chỉnh mẫu dữ liệu ghép nhóm để đưa về dạng Bảng 3.2 trước khi thực hiện tính toán các số đặc trưng bằng cách hiệu chỉnh nhóm k<sub>1</sub> – k<sub>2</sub> với k<sub>1</sub>, k<sub>2</sub> ∈ ℕ thành nhóm [k<sub>1</sub> – 0,5; k<sub>2</sub> + 0,5). Chẳng hạn, với dữ liệu ghép nhóm điểm thi môn Toán trong bảng 3.3 sau khi hiệu chỉnh ta được bảng 3.4. </p>
+<p><img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" height="77" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185062.PNG" width="586"/></p>
+<p><strong>Ý nghĩa: </strong>Số trung bình của mẫu số liệu ghép nhóm xấp xỉ cho số trung bình của mẫu số liệu gốc, nó cho biết vị trí trung tâm của mẫu số liệu và có thể dùng đại diện cho mẫu số liệu.</p>
+<p><strong>Ví dụ:</strong> Tính thời gian trung bình giải bài tập của học sinh lớp 11A được cho trong bảng sau:</p>
+<!-- ad grade 11 -->
+<table border="1" class="MsoTableGrid"><tbody>
+<tr>
+<td><p>Thời gian (phút)</p></td>
+<td><p>[7,5; 10,5)</p></td>
+<td><p>[10,5; 13,5)</p></td>
+<td><p>[13,5; 16,5)</p></td>
+<td><p>[16,5; 19,5)</p></td>
+</tr>
+<tr>
+<td><p>Số học sinh</p></td>
+<td><p>6</p></td>
+<td><p>17</p></td>
+<td><p>17</p></td>
+<td><p>5</p></td>
+</tr>
+</tbody></table>
+<p><strong>Hướng dẫn giải</strong></p>
+<p>Trong mỗi khoảng thời gian, giá trị đại diện là trung bình cộng của giá trị hai đầu mút nên ta có bảng sau:</p>
+<table border="1" class="MsoTableGrid"><tbody>
+<tr>
+<td><p>Thời gian (phút)</p></td>
+<td><p>9</p></td>
+<td><p>12</p></td>
+<td><p>15</p></td>
+<td><p>18</p></td>
+</tr>
+<tr>
+<td><p>Số học sinh</p></td>
+<td><p>6</p></td>
+<td><p>17</p></td>
+<td><p>17</p></td>
+<td><p>5</p></td>
+</tr>
+</tbody></table>
+<p>Tổng số học sinh là n = 45. Thời gian trung bình giải bài toán của học sinh lớp 11 A là:</p>
+<p> <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mi>x</mi><mo>¯</mo></mover><mo>=</mo><mfrac><mrow><mn>6.9</mn><mo>+</mo><mn>17.12</mn><mo>+</mo><mn>17.15</mn><mo>+</mo><mn>5.18</mn></mrow><mn>45</mn></mfrac><mo>=</mo><mfrac><mn>67</mn><mn>5</mn></mfrac><mo>=</mo><mn>13</mn><mo>,</mo><mn>4</mn></math> (phút)</p>
+<div class="ads_ads ads_article_1">
+ app MathPortal 
+</div>
+<div class="ads_ads ads_3">
+ app MathPortal 4 
+</div>
+<p><strong style="color:#00b050;">2. Trung vị của mẫu số liệu ghép nhóm</strong></p>
+<p>Cho mẫu số liệu ghép nhóm:</p>
+<p><img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" height="95" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185063.PNG" width="523"/></p>
+<p>Để tính <strong><em>trung vị</em></strong> của mẫu số liệu ghép nhóm, ta làm như sau:</p>
+<p>Bước 1: Xác định nhóm chứa trung vị. Giả sử đó là nhóm thứ p: [a<sub>p</sub>; a<sub>p+1</sub>).</p>
+<p>Bước 2: Trung vị <img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185545.PNG" style="display: inline; width:70; height:50"/></p>
+<p>trong đó n là cỡ mẫu, m<sub>p</sub> là tần số nhóm p. Với p = 1, ta quy ước m<sub>1</sub> + ….+ m<sub>p-1</sub> = 0.</p>
+<p><strong>Ý nghĩa:</strong> Trung vị của mẫu số liệu ghép nhóm xấp xỉ cho trung vị của mẫu số liệu gốc, nó chia mẫu số liệu thành hai phần, mỗi phần chứa 50% giá trị.</p>
+<p><strong>Ví dụ: </strong>Cho mẫu số liệu về thời gian (phút) đi từ nhà đến trường của một số học sinh như sau:</p>
+<table border="1" class="MsoTableGrid"><tbody>
+<tr>
+<td><p>Thời gian </p></td>
+<td><p>[15; 20)</p></td>
+<td><p>[20; 25)</p></td>
+<td><p>[25; 30)</p></td>
+<td><p>[30; 35)</p></td>
+<td><p>[35; 40)</p></td>
+<td><p>[40; 45)</p></td>
+<td><p>[45; 50)</p></td>
+</tr>
+<tr>
+<td><p>Số học sinh</p></td>
+<td><p>7</p></td>
+<td><p>12</p></td>
+<td><p>5</p></td>
+<td><p>7</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
+<td><p>1</p></td>
+</tr>
+</tbody></table>
+<p>Tính trung vị của mẫu số liệu trên.</p>
+<p><strong>Hướng dẫn giải</strong></p>
+<p>Cỡ mẫu là n = 7 + 12 + 5 + 7 + 3 + 5 + 1 = 40.</p>
+<p>Gọi x<sub>1</sub>, x<sub>2</sub>, ….., x<sub>40</sub> là thời gian đi từ nhà đến trường của 40 học sinh và giả sử dãy này đã được sắp xếp theo thứ tự tăng dần.</p>
+<p>Khi đó, trung vị là <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><msub><mi>x</mi><mn>20</mn></msub><mo>+</mo><msub><mi>x</mi><mn>21</mn></msub></mrow><mn>2</mn></mfrac></math> . Do hai giá trị x<sub>20</sub>, x<sub>21</sub> thuộc nhóm [25; 30) nên nhóm này chứa trung vị.</p>
+<p>Do đó p = 3; a<sub>3</sub> = 25, m<sub>3</sub> = 5; m<sub>1</sub> + m<sub>2</sub> = 7 + 12 = 19; a<sub>4</sub> – a<sub>3</sub> = 30 – 25 = 5</p>
+<p>Khi đó <img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185546.PNG" style="display: inline; width:418; height:76"/></p>
+<p>Vậy M<sub>e</sub> = 26.</p>
+<p><strong style="color:#00b050;">3. Tứ phân vị của mẫu số liệu ghép nhóm</strong></p>
+<p>Cho mẫu số liệu ghép nhóm:</p>
+<p><img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" height="92" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185064.PNG" width="507"/></p>
+<p>Để tính <strong><em>tứ phân vị thứ nhất</em></strong> Q<sub>1</sub> vị của mẫu số liệu ghép nhóm, trước hết ta xác định nhóm chứa Q<sub>1</sub>, giả sử đó là nhóm thứ p: [a<sub>p</sub>; a<sub>p+1</sub>). Khi đó,</p>
+<p><img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185547.PNG" style="display: inline; width:70; height:50"/></p>
+<p>trong đó, n là cỡ mẫu, m<sub>p</sub> là tần số nhóm p, với p = 1 ta quy ước m<sub>1</sub> + ….+ m<sub>p-1</sub> = 0.</p>
+<p>Để tính <strong><em>tứ phân vị thứ ba</em></strong> Q<sub>3</sub> của mẫu số liệu ghép nhóm, trước hết ta xác định nhóm chứa Q<sub>3</sub>. Giả sử đó là nhóm thứ p: [a<sub>p</sub>; a<sub>p+1</sub>).</p>
+<p><img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185548.PNG" style="display: inline; width:70; height:50"/></p>
+<p>trong đó, n là cỡ mẫu, m<sub>p</sub> là tần số nhóm p, với p = 1 ta quy ước m<sub>1</sub> + ….+ m<sub>p-1</sub> = 0.</p>
+<p><strong><em>Tứ phân vị thứ hai</em></strong> Q<sub>2</sub> chính là trung vị M<sub>e</sub>.</p>
+<p><strong>Nhận xét:</strong> Ta cũng có thể xác định nhóm chứa tứ phân vị thứ r nhờ tính chất: có khoảng <img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185549.PNG" style="display: inline; width:70; height:50"/> giá trị nhỏ hơn tứ phân vị này.</p>
+<p><strong>Ý nghĩa:</strong> Các tứ phân vị của mẫu số liệu ghép nhóm xấp xỉ cho các tứ phân vị của mẫu số liệu gốc, chúng chia mẫu số liệu thành 4 phần, mỗi phần chứa 25% giá trị.</p>
+<p><strong>Ví dụ: </strong>Cho mẫu số liệu về thời gian (phút) đi từ nhà đến trường của một số học sinh như sau:</p>
+<table border="1" class="MsoTableGrid"><tbody>
+<tr>
+<td><p>Thời gian </p></td>
+<td><p>[15; 20)</p></td>
+<td><p>[20; 25)</p></td>
+<td><p>[25; 30)</p></td>
+<td><p>[30; 35)</p></td>
+<td><p>[35; 40)</p></td>
+<td><p>[40; 45)</p></td>
+<td><p>[45; 50)</p></td>
+</tr>
+<tr>
+<td><p>Số học sinh</p></td>
+<td><p>7</p></td>
+<td><p>12</p></td>
+<td><p>5</p></td>
+<td><p>7</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
+<td><p>1</p></td>
+</tr>
+</tbody></table>
+<p>Tìm tứ phân vị Q<sub>1 </sub>và Q<sub>3 </sub>của mẫu số liệu trên.</p>
+<p><strong>Hướng dẫn giải</strong></p>
+<p>Cỡ mẫu là n = 7 + 12 + 5 + 7 + 3 + 5 + 1 = 40.</p>
+<p>Gọi x<sub>1</sub>, x<sub>2</sub>, ….., x<sub>40</sub> là thời gian đi từ nhà đến trường của 40 học sinh và giả sử dãy này đã được sắp xếp theo thứ tự tăng dần.</p>
+<p>- Tứ phân vị thứ nhất Q<sub>1</sub> là trung vị của nửa dãy bên trái Q<sub>2</sub> nên <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Q</mi><mn>1</mn></msub><mo>=</mo><mfrac><mrow><msub><mi>x</mi><mn>10</mn></msub><mo>+</mo><msub><mi>x</mi><mn>11</mn></msub></mrow><mn>2</mn></mfrac></math> .</p>
+<p>Do x<sub>10</sub> và x<sub>11</sub> đều thuộc nhóm [20; 25) nên nhóm này chứa Q<sub>1</sub>. Do đó, p = 2, a<sub>2</sub> = 20, m<sub>2</sub> = 12, m<sub>1</sub> = 7; a<sub>3</sub> – a<sub>2</sub> = 5.</p>
+<p>Ta có <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Q</mi><mn>1</mn></msub><mo>=</mo><msub><mi>a</mi><mn>2</mn></msub><mo>+</mo><mfrac><mrow><mfrac><mi>n</mi><mn>4</mn></mfrac><mo>−</mo><msub><mi>m</mi><mn>1</mn></msub></mrow><msub><mi>m</mi><mn>2</mn></msub></mfrac><mo>.</mo></math>(a<sub>3</sub>-a<sub>2</sub>)<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>20</mn><mo>+</mo><mfrac><mrow><mfrac><mn>40</mn><mn>4</mn></mfrac><mo>−</mo><mn>7</mn></mrow><mn>12</mn></mfrac><mn>.5</mn><mo>=</mo><mn>21</mn><mo>,</mo><mn>25</mn></math>.</p>
+<p>- Tứ phân vị thứ ba Q<sub>3</sub> là trung vị của nửa dãy bên phải Q<sub>2</sub> nên <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Q</mi><mn>3</mn></msub><mo>=</mo><mfrac><mrow><msub><mi>x</mi><mn>30</mn></msub><mo>+</mo><msub><mi>x</mi><mn>31</mn></msub></mrow><mn>2</mn></mfrac></math> .</p>
+<p>Do x<sub>30</sub> và x<sub>31</sub> đều thuộc nhóm [30; 35) nên nhóm này chứa Q<sub>3</sub>. Do đó, p = 4, a<sub>4</sub> = 30, m<sub>4</sub> = 7, m<sub>1</sub> + m<sub>2</sub> + m<sub>3</sub> = 7 + 12 + 5 = 24; a<sub>5</sub> – a<sub>4</sub> = 35 – 30 = 5.</p>
+<p>Ta có <img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185551.PNG" style="display: inline; width:485; height:67"/>.</p>
+<p>Vậy Q<sub>1</sub> = 21,25; Q<sub>3</sub> ≈ 34,29.</p>
+<p><strong style="color:#00b050;">4. Mốt của mẫu số liệu ghép nhóm</strong></p>
+<p>Để tìm<strong><em> mốt</em></strong> của mẫu số liệu ghép nhóm, ta thực hiện theo các bước sau:</p>
+<p>Bước 1: Xác định nhóm có tần số lớn nhất (gọi là nhóm chứa mốt), giả sử là nhóm j: [a<sub>j</sub>; a<sub>j+1</sub>).</p>
+<p>Bước 2: Mốt được xác định là <img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185552.PNG" style="display: inline; width:70; height:50"/></p>
+<p>trong đó m<sub>j</sub> là tần số của nhóm j (quy ước m<sub>o</sub> = m<sub>k+1</sub> = 0) và h là độ dài của nhóm.</p>
+<p><strong>Lưu ý:</strong></p>
+<p>- Người ta chỉ định nghĩa mốt cho mẫu ghép nhóm có độ dài các nhóm bằng nhau. Một mẫu có thể không có mốt hoặc có nhiều hơn một mốt.</p>
+<p>- Khi tần số của các nhóm số liệu bằng nhau thì mẫu số liệu ghép nhóm không có mốt.</p>
+<p><strong>Ý nghĩa:</strong> Mốt của mẫu số liệu ghép nhóm xấp xỉ cho mốt của mẫu số liệu gốc, nó được dùng để đo xu thế trung tâm của mẫu số liệu.</p>
+<p><strong>Ví dụ: </strong>Cho mẫu số liệu về thời gian (phút) đi từ nhà đến trường của một số học sinh như sau:</p>
+<table border="1" class="MsoTableGrid"><tbody>
+<tr>
+<td><p>Thời gian </p></td>
+<td><p>[15; 20)</p></td>
+<td><p>[20; 25)</p></td>
+<td><p>[25; 30)</p></td>
+<td><p>[30; 35)</p></td>
+<td><p>[35; 40)</p></td>
+<td><p>[40; 45)</p></td>
+<td><p>[45; 50)</p></td>
+</tr>
+<tr>
+<td><p>Số học sinh</p></td>
+<td><p>7</p></td>
+<td><p>12</p></td>
+<td><p>5</p></td>
+<td><p>7</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
+<td><p>1</p></td>
+</tr>
+</tbody></table>
+<p>Tìm mốt của mẫu số liệu trên.</p>
+<p><strong>Hướng dẫn giải</strong></p>
+<p>Tần số lớn nhất là 12 nên nhóm chứa mốt là nhóm [20; 25). Ta có j = 2, a<sub>2</sub> = 20, m<sub>2</sub> = 12, m<sub>1</sub> = 7, m<sub>3</sub> = 5, h = 25 – 20 = 5</p>
+<p>Khi đó</p>
+<p><img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185553.PNG" style="display: inline; width:70; height:50"/></p>
+<p><img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185554.PNG" style="display: inline; width:70; height:50"/></p>
+<p>Vậy M<sub>o</sub> ≈ 22,08.</p>
+
+<h3 style="text-align:center;"><b style="color:#0070c0;">Bài tập Các số đặc trưng đo xu thế trung tâm</b></h3>
+<p><strong>Bài 1: </strong>Kết quả khảo sát cân nặng của 20 quả táo ở mỗi lô hàng A và B được cho bởi bảng sau:</p>
+<table border="1" class="MsoTableGrid"><tbody>
+<tr>
+<td><p>Cân nặng (gam)</p></td>
+<td><p>[150; 155)</p></td>
+<td><p>[155; 160)</p></td>
+<td><p>[160; 165)</p></td>
+<td><p>[165; 170)</p></td>
+<td><p>[170; 175)</p></td>
+</tr>
+<tr>
+<td><p>Số quả táo lô hàng A</p></td>
+<td><p>1</p></td>
+<td><p>4</p></td>
+<td><p>10</p></td>
+<td><p>3</p></td>
+<td><p>2</p></td>
+</tr>
+<tr>
+<td><p>Số quả táo lô hàng B</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>12</p></td>
+<td><p>2</p></td>
+<td><p>1</p></td>
+</tr>
+</tbody></table>
+<p>a) Hãy ước lượng cân nặng trung bình của mỗi quả táo ở hai lô hàng trên.</p>
+<p>b) Nếu so sánh theo số trung bình thì táo ở lô hàng nào nặng hơn?</p>
+<p><strong>Hướng dẫn giải</strong></p>
+<p>Trong mỗi khoảng cân nặng, giá trị đại diện là trung bình cộng của giá trị hai đầu mút nên ta có bảng sau:</p>
+<table border="1" class="MsoTableGrid"><tbody>
+<tr>
+<td><p>Cân nặng (gam)</p></td>
+<td><p>152,5</p></td>
+<td><p>157,5</p></td>
+<td><p>162,5</p></td>
+<td><p>167,5</p></td>
+<td><p>172,5</p></td>
+</tr>
+<tr>
+<td><p>Số quả táo lô hàng A</p></td>
+<td><p>1</p></td>
+<td><p>4</p></td>
+<td><p>10</p></td>
+<td><p>3</p></td>
+<td><p>2</p></td>
+</tr>
+<tr>
+<td><p>Số quả táo lô hàng B</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>12</p></td>
+<td><p>2</p></td>
+<td><p>1</p></td>
+</tr>
+</tbody></table>
+<p>Tổng số quả táo của mỗi lô hàng A và B đều là n = 20. </p>
+<p>Cân nặng trung bình của mỗi quả táo ở lô hàng A là:</p>
+<p> <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><msub><mi>x</mi><mi>A</mi></msub><mo>¯</mo></mover><mo>=</mo><mfrac><mrow><mn>1.152</mn><mo>,</mo><mn>5</mn><mo>+</mo><mn>4.157</mn><mo>,</mo><mn>5</mn><mo>+</mo><mn>10.162</mn><mo>,</mo><mn>5</mn><mo>+</mo><mn>3.167</mn><mo>,</mo><mn>5</mn><mo>+</mo><mn>2.172</mn><mo>,</mo><mn>5</mn></mrow><mn>20</mn></mfrac><mo>=</mo><mfrac><mn>651</mn><mn>4</mn></mfrac><mo>=</mo><mn>162</mn><mo>,</mo><mn>75</mn></math> (gam)</p>
+<p>Cân nặng trung bình của mỗi quả táo ở lô hàng B là:</p>
+<p> <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><msub><mi>x</mi><mi>B</mi></msub><mo>¯</mo></mover><mo>=</mo><mfrac><mrow><mn>2.152</mn><mo>,</mo><mn>5</mn><mo>+</mo><mn>3.157</mn><mo>,</mo><mn>5</mn><mo>+</mo><mn>12.162</mn><mo>,</mo><mn>5</mn><mo>+</mo><mn>2.167</mn><mo>,</mo><mn>5</mn><mo>+</mo><mn>1.172</mn><mo>,</mo><mn>5</mn></mrow><mn>20</mn></mfrac></math>= 161,75 (gam)</p>
+<p>Theo số trung bình thì táo ở lô hàng A nặng hơn táo ở lô hàng B.</p>
+<p><strong>Bài 2: </strong>Cho mẫu số liệu về cân nặng (kg) của 45 học sinh lớp 11A được cho bởi bảng sau: </p>
+<table border="1" class="MsoTableGrid"><tbody>
+<tr>
+<td><p>Cân nặng (kg)</p></td>
+<td><p>[40; 45)</p></td>
+<td><p>[45; 50)</p></td>
+<td><p>[50; 55)</p></td>
+<td><p>[55; 60)</p></td>
+<td><p>[60; 65)</p></td>
+</tr>
+<tr>
+<td><p>Số học sinh</p></td>
+<td><p>7</p></td>
+<td><p>10</p></td>
+<td><p>20</p></td>
+<td><p>6</p></td>
+<td><p>2</p></td>
+</tr>
+</tbody></table>
+<p>Tính tứ phân vị và mốt của mẫu số liệu trên.</p>
+<p><strong>Hướng dẫn giải</strong></p>
+<p>Cỡ mẫu là n = 7 + 10 + 20 + 6 + 2 = 45</p>
+<p>Gọi x<sub>1</sub>, x<sub>2</sub>, ….., x<sub>45</sub> là cân nặng của 45 học sinh và giả sử dãy này đã được sắp xếp theo thứ tự tăng dần.</p>
+<p>Khi đó, trung vị là x<sub>23</sub>. Do giá trị x<sub>23</sub> thuộc nhóm [50; 55) nên nhóm này chứa trung vị.</p>
+<p>Do đó p = 3; a<sub>3</sub> = 50, m<sub>3</sub> = 20; m<sub>1</sub> + m<sub>2</sub> = 7 + 10 = 17; a<sub>4</sub> – a<sub>3</sub> = 55 – 50 = 5</p>
+<p>Khi đó </p>
+<p><img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185555.PNG" style="display: inline; width:70; height:50"/><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>50</mn><mo>+</mo><mfrac><mrow><mfrac><mn>45</mn><mn>2</mn></mfrac><mo>−</mo><mn>17</mn></mrow><mn>20</mn></mfrac><mn>.5</mn><mo>≈</mo><mn>51</mn><mo>,</mo><mn>4</mn></math> .</p>
+<p>Vậy M<sub>e</sub> = 51,4. </p>
+<p>Từ M<sub>e</sub> = 51,4, suy ra Q<sub>2</sub> = 51,4.</p>
+<p>- Tứ phân vị thứ nhất Q<sub>1</sub> là trung vị của nửa dãy bên trái Q<sub>2</sub> nên <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Q</mi><mn>1</mn></msub><mo>=</mo><mfrac><mrow><msub><mi>x</mi><mn>11</mn></msub><mo>+</mo><msub><mi>x</mi><mn>12</mn></msub></mrow><mn>2</mn></mfrac></math>.</p>
+<p>Do x<sub>11</sub> và x<sub>12</sub> đều thuộc nhóm [45; 50) nên nhóm này chứa Q<sub>1</sub>. Do đó, p = 2, a<sub>2</sub> = 45, m<sub>2</sub> = 10, m<sub>1</sub> = 7; a<sub>3</sub> – a<sub>2</sub> = 5.</p>
+<p>Ta có <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Q</mi><mn>1</mn></msub><mo>=</mo><msub><mi>a</mi><mn>2</mn></msub><mo>+</mo><mfrac><mrow><mfrac><mi>n</mi><mn>4</mn></mfrac><mo>−</mo><msub><mi>m</mi><mn>1</mn></msub></mrow><msub><mi>m</mi><mn>2</mn></msub></mfrac><mo>.</mo></math>(a<sub>3</sub>-a<sub>2</sub>) <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mn>45</mn><mo>+</mo><mfrac><mrow><mfrac><mn>45</mn><mn>4</mn></mfrac><mo>−</mo><mn>7</mn></mrow><mn>10</mn></mfrac><mn>.5</mn><mo>≈</mo><mn>47</mn><mo>,</mo><mn>1</mn></math>.</p>
+<p>- Tứ phân vị thứ ba Q<sub>3</sub> là trung vị của nửa dãy bên phải Q<sub>2</sub> nên <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Q</mi><mn>3</mn></msub><mo>=</mo><mfrac><mrow><msub><mi>x</mi><mn>34</mn></msub><mo>+</mo><msub><mi>x</mi><mn>35</mn></msub></mrow><mn>2</mn></mfrac></math> .</p>
+<p>Do x<sub>34</sub> và x<sub>35</sub> đều thuộc nhóm [50; 55) nên nhóm này chứa Q<sub>3</sub>. Do đó, p = 3, a<sub>3</sub> = 50, m<sub>3</sub> = 20, m<sub>1</sub> + m<sub>2</sub> = 7 + 10 = 17; a<sub>4</sub> – a<sub>3</sub> = 55 – 50 = 5.</p>
+<p>Ta có <img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185556.PNG" style="display: inline; width:70; height:50"/> .</p>
+<p>Vậy tứ phân vị: Q<sub>1</sub> ≈ 47,1; Q<sub>2</sub> ≈ 51,4; Q<sub>3</sub> ≈ 54,2.</p>
+<p>- Ta thấy tần số lớn nhất là 20 nên nhóm chứa mốt là nhóm [50; 55).</p>
+<p>Ta có j = 3, a<sub>3</sub> = 50, m<sub>3</sub> = 20, m<sub>2</sub> = 10, m<sub>4</sub> = 6, h = 55 – 50 = 5</p>
+<p>Khi đó</p>
+<p><img alt="Các số đặc trưng đo xu thế trung tâm lớp 11 (Lý thuyết Toán 11 Kết nối tri thức)" src="/bài thực hành 4.2/assets/images/theory/ly-thuyet-bai-9-cac-so-dac-trung-do-xu-the-trung-tam-185557.PNG" style="display: inline; width:492; height:48"/></p>
+<p>Vậy M<sub>o</sub> ≈ 52,1.</p>
+
+</div>
+
+=========================================
+=== ORIGINAL TOPIC 58 ===
+<div class="col-md-7 middle-col">
+<h1 class="title">Mệnh đề lớp 10 (Lý thuyết Toán 10 Kết nối tri thức)</h1>
+<!-- grade 10 -->
+<p>Với tóm tắt lý thuyết Toán 10 Bài 1: Mệnh đề sách Kết nối tri thức hay nhất, chi tiết 
+sẽ giúp học sinh nắm vững kiến thức trọng tâm, ôn luyện để học tốt môn Toán 10.</p>
+<div class="vj-more">
+<ul>
+<li><a href="../toan-10-kn/trac-nghiem-bai-1-menh-de.jsp">Trắc nghiệm Toán 10 Bài 1: Mệnh đề (có đáp án)</a></li>
+</ul>
+</div>
+<div class="vj-toc">
+<ul>
+<li><a href="../toan-10-kn/ly-thuyet-bai-1-menh-de.jsp#lythuyet">Lý thuyết Mệnh đề</a></li>
+<li><a href="../toan-10-kn/ly-thuyet-bai-1-menh-de.jsp#baitap">Bài tập Mệnh đề</a></li>
+<li><a href="../toan-10-kn/ly-thuyet-bai-1-menh-de.jsp#hoctot">Học tốt Mệnh đề</a></li>
+</ul>
+</div>
+<h2 class="sub-title">Mệnh đề lớp 10 (Lý thuyết Toán 10 Kết nối tri thức)</h2>
+<!-- ad grade 10 -->
+<p style="text-align:center;">Bài giảng: <b>Bài 1: Mệnh đề - Cô Khuất Thị Thùy Linh (Giáo viên MathPortal)</b></p>
+<a name="lythuyet"></a>
+<h3 style="text-align:center;"><b style="color:#0070c0;">Lý thuyết Mệnh đề</b></h3>
+<p><strong><span style="color: #00b050;">1. Mệnh đề, mệnh đề chứa biến</span></strong></p>
+<p><strong><span style="color: #00b050;">1.1. Mệnh đề</span></strong></p>
+<p><span>- Những khẳng định có tính đúng hoặc sai gọi là <em>mệnh đề logic</em> (gọi tắt là <em>mệnh đề</em>). Những câu không xác định được tính đúng sai không phải là mệnh đề.</span></p>
+<p><span>- Mỗi mệnh đề phải hoặc đúng hoặc sai. Một mệnh đề k
+... truncated ...
+
+=== CLEANED TOPIC 58 ===
+<div class="col-md-7 middle-col">
+<h1 class="title">Mệnh đề lớp 10 (Lý thuyết Toán 10 Kết nối tri thức)</h1>
+<!-- grade 10 -->
+<p>Với tóm tắt lý thuyết Toán 10 Bài 1: Mệnh đề sách Kết nối tri thức hay nhất, chi tiết 
+sẽ giúp học sinh nắm vững kiến thức trọng tâm, ôn luyện để học tốt môn Toán 10.</p>
+<div class="vj-more">
+<ul>
+<li>Trắc nghiệm Toán 10 Bài 1: Mệnh đề (có đáp án)</li>
+</ul>
+</div>
+
+<h2 class="sub-title">Mệnh đề lớp 10 (Lý thuyết Toán 10 Kết nối tri thức)</h2>
+<!-- ad grade 10 -->
+<p style="text-align:center;">Bài giảng: <b>Bài 1: Mệnh đề - Cô Khuất Thị Thùy Linh (Giáo viên MathPortal)</b></p>
+
+<h3 style="text-align:center;"><b style="color:#0070c0;">Lý thuyết Mệnh đề</b></h3>
+<p><strong><span style="color: #00b050;">1. Mệnh đề, mệnh đề chứa biến</span></strong></p>
+<p><strong><span style="color: #00b050;">1.1. Mệnh đề</span></strong></p>
+<p><span>- Những khẳng định có tính đúng hoặc sai gọi là <em>mệnh đề logic</em> (gọi tắt là <em>mệnh đề</em>). Những câu không xác định được tính đúng sai không phải là mệnh đề.</span></p>
+<p><span>- Mỗi mệnh đề phải hoặc đúng hoặc sai. Một mệnh đề không thể vừa đúng vừa sai.</span></p>
+<p><strong><span>Chú ý: </span></strong></p>
+<p><span>- Người ta thường sử dụng các chữ cái P, Q, R, … để biểu thị các mệnh đề. </span></p>
+<p><span>- Những mệnh đề liên quan đến toán học được gọi là <em>mệnh đề toán học</em>.</span></p>
+<p><span>- Những câu nghi vấn, câu cảm thán, câu cầu khiến không phải là mệnh đề.</span></p>
+<p><strong><span>Ví dụ:</span></strong></p>
+<p><span>+ “Hà Nội là thủ đô của Việt Nam” là một mệnh đề nhưng không phải mệnh đề toán học vì không phải sự kiện trong toán học.</span></p>
+<p><span>+ “Số π là một số hữu tỉ” là mệnh đề toán học.</span></p>
+<p><strong><span style="color: #00b050;">1.2. Mệnh đề chứa biến</span></strong></p>
+<p><span>- Mệnh đề chứa biến là mệnh đề chưa khẳng định được tính đúng sai, cần có giá trị cụ thể của biến mới có thể khẳng định tính đúng sai của mệnh đề đó.</span></p>
+<p><span>- Ta thường kí hiệu mệnh đề chứa biến n là P(n); mệnh đề chứa biến x, y là P(x, y), …. </span></p>
+<p><strong><span>Ví dụ:</span></strong></p>
+<p><span>+ “20 chia hết cho 2”: không phải là mệnh đề chứa biến.</span></p>
+<p><span>+ “5n chia hết cho 2” là mệnh đề chứa biến. Khi n = 4 thì mệnh đề này là mệnh đề đúng, khi n = 5 thì mệnh đề này là mệnh đề sai.</span></p>
+<p><strong><span style="color: #00b050;">2. Mệnh đề phủ định </span></strong></p>
+<p><span>- Để phủ định một mệnh đề P, người ta thường thêm (hoặc bớt) từ “không” hoặc “không phải” vào trước vị ngữ của mệnh đề P. Ta kí hiệu mệnh đề phủ định của mệnh đề P là.</span></p>
+<p><span>- Mệnh đề P và mệnh đề <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mi>P</mi><mo>¯</mo></mover></math>là hai phát biểu trái ngược nhau. Nếu P đúng thì <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mi>P</mi><mo>¯</mo></mover></math>sai, còn nếu P sai thì <math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mi>P</mi><mo>¯</mo></mover></math>đúng.</span></p>
+<p><strong><span>Ví dụ: </span></strong><span>“5 không chia hết cho 3” là mệnh đề phủ định của mệnh đề “5 chia hết cho 3”.</span></p>
+<p><strong><span style="color: #00b050;">3. Mệnh đề kéo theo, mệnh đề đảo</span></strong></p>
+<p><strong><span style="color: #00b050;">3.1. Mệnh đề kéo theo</span></strong></p>
+<p><span>- Mệnh đề “Nếu P thì Q” được gọi là <em>mệnh đề kéo theo</em> và kí hiệu là P ⇒ Q.</span></p>
+<p><span>- Các định lí toán học là những mệnh đề đúng và thường có dạng P ⇒ Q. Khi đó ta nói:</span></p>
+<p><span>P là giả thiết của định lí, Q là kết luận của định lí hoặc</span></p>
+<p><span>“P là điều kiện đủ để có Q”, hoặc “Q là điều kiện cần để có P”.</span></p>
+<p><strong><span>Chú ý: </span></strong><span>Mệnh đề P ⇒ Q chỉ sai khi P đúng và Q sai. Do đó ta chỉ cần xét tính đúng sai của mệnh đề P ⇒ Q khi P đúng. Khi đó, nếu Q đúng thì P ⇒ Q đúng, nếu Q sai thì P ⇒ Q sai. </span></p>
+<p><strong><span>Ví dụ: </span></strong><span>Cho 2 mệnh đề: P: “9 chia hết cho 9”; Q: “9 chia hết cho 3”.</span></p>
+<p><span>“Nếu 9 chia hết cho 9 thì 9 chia hết cho 3” là mệnh đề kéo theo của P và Q.</span></p>
+<p><span>P là mệnh đề đúng và Q là mệnh đề đúng nên mệnh đề kéo theo P ⇒ Q là mệnh đề đúng.</span></p>
+<p><strong><span style="color: #00b050;">3.2. Mệnh đề đảo</span></strong></p>
+<p><span>- Mệnh đề Q ⇒ P được gọi là <em>mệnh đề đảo</em> của mệnh đề P ⇒ Q.</span></p>
+<p><strong><span>Nhận xét: </span></strong><span>Mệnh đề đảo của một mệnh đề đúng không nhất thiết là đúng.</span></p>
+<p><strong><span>Ví dụ: </span></strong><span>Cho 2 mệnh đề: P: “n = 0”; Q: “n là số nguyên”.</span></p>
+<p><span>“Nếu n = 0 thì n là số nguyên” là mệnh đề P ⇒ Q.</span></p>
+<p><span>“Nếu n là số nguyên thì n = 0” là mệnh đề Q ⇒ P.</span></p>
+<p><span>- Mệnh đề P ⇒ Q là mệnh đề đúng còn mệnh đề Q ⇒ P không đúng.</span></p>
+<p><strong><span style="color: #00b050;">4. Mệnh đề tương đương</span></strong></p>
+<p><span>- Mệnh đề “P nếu và chỉ nếu Q” được gọi là một <em>mệnh đề tương đương</em> và kí hiệu P ⇔ Q .</span></p>
+<p><strong><span>Nhận xét:</span></strong></p>
+<p><span>- Nếu cả hai mệnh đề Q ⇒ P và P ⇒ Q đều đúng thì hai mệnh đề tương đương P ⇔ Q đúng. Khi đó ta nói “P tương đương với Q” hoặc “P là điều kiện cần và đủ để có Q” hoặc “P khi và chỉ khi Q”. </span></p>
+<p><strong><span>Ví dụ: </span></strong><span>Cho 2 mệnh đề: P: “Tứ giác ABCD là hình bình hành”; Q: “Tứ giác ABCD có hai cặp cạnh đối song song”.</span></p>
+<p><span>“Nếu tứ giác ABCD là hình bình hành thì tứ giác ABCD có hai cặp cạnh đối song song” là mệnh đề P ⇒ Q.</span></p>
+<p><span>“Nếu tứ giác ABCD có hai cặp cạnh đối song song thì tứ giác ABCD là hình bình hành” là mệnh đề Q ⇒ P.</span></p>
+<p><span>Hai mệnh đề này đều đúng nên P và Q là hai mệnh đề tương đương.</span></p>
+<p><strong><span style="color: #00b050;">5. Mệnh đề có chứa kí hiệu </span><span style="color: #00b050;">∀</span><span style="color: #00b050;"> và </span><span style="color: #00b050;">∃</span></strong></p>
+<p><span>- Kí hiệu ∀ đọc là “với mọi”.</span></p>
+<p><span>- Kí hiệu ∃ đọc là “có một” hoặc “tồn tại”.</span></p>
+<p><span>- Cho mệnh đề “<span> <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>,</mo><mi>x</mi><mo>∈</mo><mi>X</mi></math></span>”. </span></p>
+<p><span>+ Phủ định của mệnh đề “<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∀</mo><mi>x</mi><mo>∈</mo><mi>X</mi><mo>,</mo><mi>P</mi><mo>⁢</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mstyle></math>” là mệnh đề “<span> <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∃</mo><mi>x</mi><mo>∈</mo><mi>X</mi><mo>,</mo><mover accent="true"><mrow><mi>P</mi><mo>⁢</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>¯</mo></mover></mstyle></math></span>”.</span></p>
+<p><span>+ Phủ định của mệnh đề “<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∃</mo><mi>x</mi><mo>∈</mo><mi>X</mi><mo>,</mo><mi>P</mi><mo>⁢</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mstyle></math>” là mệnh đề “<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∀</mo><mi>x</mi><mo>∈</mo><mi>X</mi><mo>,</mo><mover accent="true"><mrow><mi>P</mi><mo>⁢</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>¯</mo></mover></mstyle></math>”.</span></p>
+<p><strong><span>Chú ý:</span></strong></p>
+<p><span>+ <span>Phát biểu “Với mọi số tự nhiên n” có thể kí hiệu là <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∀</mo><mi>n</mi><mo>∈</mo><mi mathvariant="normal">ℕ</mi></mstyle></math> .</span></span></p>
+<p><span>+ <span>Phát biểu “Tồn tại số tự nhiên n” có thể kí hiệu là <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∃</mo><mi>n</mi><mo>∈</mo><mi mathvariant="normal">ℕ</mi></mstyle></math> .</span></span></p>
+<p><strong><span>Ví dụ: </span></strong></p>
+<p><span>Phủ định của mệnh đề “<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∃</mo><mi>x</mi><mo>∈</mo><mi mathvariant="normal">ℝ</mi><mo>,</mo><msup><mi>x</mi><mpadded><mn>2</mn></mpadded></msup><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></mstyle></math>” là mệnh đề: “<span> <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∀</mo><mi>x</mi><mo>∈</mo><mi mathvariant="normal">ℝ</mi><mo>,</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>≠</mo><mn>0</mn></mstyle></math></span>”.</span></p>
+
+<h3 style="text-align:center;"><b style="color:#0070c0;">Bài tập Mệnh đề</b></h3>
+<p><strong><span>Bài 1.</span></strong><span> Lập mệnh đề phủ định của mỗi mệnh đề sau và xét tính đúng sai của mệnh đề phủ định đó:</span></p>
+<p><span>a) “Số 50 chia hết cho 3”.</span></p>
+<p><span>b) “Số 10 là hợp số”.</span></p>
+<p><strong><span>Hướng dẫn giải</span></strong></p>
+<p><span>a) Mệnh đề phủ định của mệnh đề “Số 50 chia hết cho 3” là “Số 50 không chia hết cho 3”. Mệnh đề phủ định này là mệnh đề đúng.</span></p>
+<p><span>b) Mệnh đề phủ định của mệnh đề “Số 10 là hợp số” là “Số 10 không phải là hợp số”. Mệnh đề phủ định này là mệnh đề sai.</span></p>
+<p><strong><span>Bài 2.</span></strong><span> Cho tam giác ABC. Xét các mệnh đề:</span></p>
+<p><span>P: “Tam giác ABC có 3 cạnh bằng nhau”.</span></p>
+<p><span>Q: “Tam giác ABC là tam giác đều”.</span></p>
+<p><span>Hai mệnh đề P và Q có tương đương không? Nếu có, phát biểu bằng nhiều cách?</span></p>
+<p><strong><span>Hướng dẫn giải</span></strong></p>
+<p><span>+ P ⇒ Q: “Nếu tam giác ABC có 3 cạnh bằng nhau thì tam giác ABC là tam giác đều”. Đây là mệnh đề đúng. </span></p>
+<p><span>+ Q ⇒ P: “Nếu tam giác ABC là tam giác đều thì tam giác ABC có 3 cạnh bằng nhau”. Đây là mệnh đề đúng. </span></p>
+<p><span>Do đó: P và Q là hai mệnh đề tương đương. </span></p>
+<p><span>Ta phát biểu mệnh đề P ⇔ Q như sau: </span></p>
+<p><span>+ “Tam giác ABC có 3 cạnh bằng nhau tương đương với tam giác ABC là tam giác đều”.</span></p>
+<p><span>+ “Tam giác ABC có 3 cạnh bằng nhau khi và chỉ khi tam giác ABC là tam giác đều”.</span></p>
+<p><span>+ “Tam giác ABC có 3 cạnh bằng nhau là điều kiện cần và đủ để có tam giác ABC là tam giác đều”.</span></p>
+<p><strong><span>Bài 3.</span></strong><span> Dùng kí hiệu ∀ hoặc ∃ để viết các mệnh đề sau:</span></p>
+<p><span>a) Có một số nguyên không chia hết cho chính nó.</span></p>
+<p><span>b) Mọi số thực cộng với 0 đều bằng chính nó.</span></p>
+<p><strong><span>Hướng dẫn giải</span></strong></p>
+<p><span>a) “<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∃</mo><mi>x</mi><mo>∈</mo><mi mathvariant="normal">ℤ</mi><mo>,</mo><mi>x</mi><mo>'</mo><mo>/</mo><mo>.</mo><mi>x</mi></mstyle></math> ”.</span></p>
+<p><span>b) “<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∀</mo><mi>x</mi><mo>∈</mo><mi mathvariant="normal">ℝ</mi><mo>,</mo><mi>x</mi><mo>+</mo><mn>0</mn><mo>=</mo><mi>x</mi></mstyle></math> ”. </span></p>
+<p><strong><span>Bài 4.</span></strong><span> Phát biểu các mệnh đề sau và lập mệnh đề phủ định của nó dưới dạng kí hiệu:</span></p>
+<p><span>a) P(x): “<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∀</mo><mi>x</mi><mo>∈</mo><mi mathvariant="normal">ℤ</mi><mo>,</mo><msup><mi>x</mi><mn>2</mn></msup><mo>≥</mo><mn>0</mn></mstyle></math> ”.</span></p>
+<p><span>b) Q(x): “<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mo>∃</mo><mi>x</mi><mo>∈</mo><mi mathvariant="normal">ℤ</mi><mo>,</mo><mi>x</mi><mo>&lt;</mo><mn>0</mn></mstyle></math> ”. </span></p>
+<p><strong><span>Hướng dẫn giải</span></strong></p>
+<p><span>a)</span></p>
+<p><span>+ Phát biểu mệnh đề P(x): “Mọi số nguyên đều có bình phương lớn hơn hoặc bằng 0”.</span></p>
+<p><span>+ Phủ định của mệnh đề P(x) là : “<math xmlns="http://www.w3.org/1998/Math/MathML"><mover><mrow><mi>P</mi><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>¯</mo></mover><mo>:</mo><mo>"</mo><mstyle displaystyle="false"><mo>∃</mo></mstyle><mstyle displaystyle="false"><mi>x</mi></mstyle><mstyle displaystyle="false"><mo>∈</mo></mstyle><mstyle displaystyle="false"><mi mathvariant="normal">ℤ</mi></mstyle><mstyle displaystyle="false"><mo>,</mo></mstyle><mstyle displaystyle="false"><msup><mstyle displaystyle="false"><mi>x</mi></mstyle><mn>2</mn></msup></mstyle><mstyle displaystyle="false"><mo>&lt;</mo></mstyle><mstyle displaystyle="false"><mn>0</mn></mstyle><mstyle displaystyle="false"><mo>"</mo></mstyle></math> ”.</span></p>
+<p><span>b) </span></p>
+<p><span>+ Phát biểu mệnh đề Q(x): “Có một số nguyên nhỏ hơn 0”.</span></p>
+<p><span>+ Phủ định của mệnh đề Q(x) là : “<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="false"><mover accent="true"><mrow><mi>Q</mi><mo>⁢</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>¯</mo></mover></mstyle><mo>:</mo><mo> </mo><mo>"</mo><mstyle displaystyle="false"><mo>∀</mo></mstyle><mstyle displaystyle="false"><mi>x</mi></mstyle><mstyle displaystyle="false"><mo>∈</mo></mstyle><mstyle displaystyle="false"><mi mathvariant="normal">ℤ</mi></mstyle><mstyle displaystyle="false"><mo>,</mo></mstyle><mstyle displaystyle="false"><mi>x</mi></mstyle><mstyle displaystyle="false"><mo>≥</mo></mstyle><mstyle displaystyle="false"><mn>0</mn></mstyle><mstyle displaystyle="false"><mo>"</mo></mstyle></math> ”.</span></p>
+
+</div>
