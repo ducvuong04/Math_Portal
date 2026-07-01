@@ -337,11 +337,390 @@ footer {
     animation: fadeIn 0.8s ease forwards;
 }
 
-/* Responsive */
-@media (max-width: 768px) {
-    .hero h1 { font-size: 2.5rem; }
-    .nav-links { display: none; }
+/* Hide mobile actions & toggle on desktop */
+.mobile-user-actions {
+    display: none !important;
 }
+.desktop-user-actions {
+    display: flex !important;
+}
+.mobile-menu-toggle {
+    display: none !important;
+}
+.nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    /* Hide desktop actions, show mobile toggle */
+    .desktop-user-actions {
+        display: none !important;
+    }
+    .mobile-user-actions {
+        display: flex !important;
+    }
+    .mobile-menu-toggle {
+        display: flex !important;
+        background: none;
+        border: none;
+        color: var(--text-main);
+        cursor: pointer;
+        padding: 0.5rem;
+        align-items: center;
+        justify-content: center;
+        margin-left: 0.5rem;
+        outline: none;
+        border-radius: 8px;
+        transition: background 0.3s;
+    }
+    .mobile-menu-toggle:hover {
+        background: var(--glass-bg);
+    }
+    
+    /* Adjust Container */
+    .container {
+        padding: 0 1.2rem;
+    }
+    
+    /* Nav Content adjustments */
+    .nav-content {
+        padding: 0;
+    }
+    
+    /* Mobile Drawer Menu for .nav-links */
+    .nav-links {
+        display: flex !important;
+        flex-direction: column;
+        position: fixed;
+        top: var(--nav-height);
+        left: 0;
+        width: 100%;
+        height: calc(100vh - var(--nav-height));
+        background: var(--nav-bg);
+        backdrop-filter: blur(25px);
+        -webkit-backdrop-filter: blur(25px);
+        border-top: 1px solid var(--glass-border);
+        padding: 2rem 1.5rem;
+        gap: 1rem;
+        margin: 0;
+        overflow-y: auto;
+        transform: translateY(-100%);
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.4s cubic-bezier(0.1, 0.9, 0.2, 1);
+        z-index: 999;
+    }
+    
+    .nav-links.active {
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+    }
+    
+    /* Nav links styles on mobile */
+    .nav-links > li {
+        width: 100%;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        padding-bottom: 0.8rem;
+    }
+    [data-theme='light'] .nav-links > li {
+        border-bottom-color: rgba(0, 0, 0, 0.05);
+    }
+    .nav-links > li:last-child {
+        border-bottom: none;
+    }
+    
+    .nav-links a {
+        font-size: 1.1rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 0.2rem 0;
+    }
+    
+    /* Dropdown Toggle rotation on mobile */
+    .nav-links .dropdown-toggle span {
+        transition: transform 0.3s ease;
+    }
+    .nav-links li.open > .dropdown-toggle span {
+        transform: rotate(180deg);
+    }
+    
+    /* Dropdown menu on mobile */
+    .nav-links .dropdown-menu {
+        position: static;
+        transform: none !important;
+        opacity: 1;
+        visibility: visible;
+        display: none; /* Controlled by JS toggle */
+        background: rgba(255, 255, 255, 0.02);
+        backdrop-filter: none;
+        border: none;
+        box-shadow: none;
+        width: 100%;
+        margin-top: 0.5rem;
+        padding: 0.5rem 0 0.5rem 1rem;
+        flex-direction: column;
+        gap: 0.2rem;
+    }
+    
+    [data-theme='light'] .nav-links .dropdown-menu {
+        background: rgba(0, 0, 0, 0.02);
+    }
+    
+    .nav-links li.open > .dropdown-menu {
+        display: flex;
+    }
+    
+    .nav-links .dropdown-menu a {
+        text-align: left;
+        padding: 0.5rem 0.8rem;
+        font-size: 0.95rem;
+        border-radius: 6px;
+    }
+    
+    /* Nested submenu on mobile */
+    .has-submenu .submenu {
+        position: static;
+        transform: none !important;
+        opacity: 1;
+        visibility: visible;
+        display: none;
+        background: rgba(255, 255, 255, 0.02);
+        border: none;
+        box-shadow: none;
+        margin-top: 0.5rem;
+        padding: 0.5rem 0 0.5rem 1rem;
+        flex-direction: column;
+        gap: 0.2rem;
+    }
+    
+    .has-submenu.open > .submenu {
+        display: flex;
+    }
+    
+    .has-submenu > a {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    /* Hero section adjustments */
+    .hero {
+        padding: 4rem 0 2.5rem;
+    }
+    .hero h1 {
+        font-size: 2.2rem;
+        line-height: 1.3;
+    }
+    .hero p {
+        font-size: 1rem;
+        padding: 0 0.5rem;
+        margin-bottom: 1.5rem;
+    }
+    .hero div[style*="display: flex"] {
+        flex-direction: column;
+        gap: 0.8rem !important;
+        align-items: stretch;
+        max-width: 320px;
+        margin: 0 auto;
+    }
+    
+    /* Grade Tabs */
+    .grade-tabs-container {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        justify-content: center;
+    }
+    .grade-tab {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.85rem;
+        flex: 1 1 calc(50% - 0.5rem);
+        max-width: calc(50% - 0.5rem);
+        text-align: center;
+    }
+    
+    /* Grid system */
+    .grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        margin-top: 2rem;
+    }
+    .card {
+        padding: 1.5rem;
+    }
+    
+    /* Shared Utilities Card Row on Home Page */
+    main div[style*="margin-top: 4rem"] .card {
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        gap: 1.2rem !important;
+    }
+    main div[style*="margin-top: 4rem"] .card div[style*="display: flex"] {
+        flex-direction: column;
+        align-items: flex-start !important;
+        gap: 1rem !important;
+    }
+    main div[style*="margin-top: 4rem"] .card a.btn {
+        width: 100%;
+        text-align: center;
+    }
+    
+    /* Theory 2 Column Layout responsive */
+    main.container > div[style*="display: grid"] {
+        grid-template-columns: minmax(0, 1fr) !important;
+        gap: 1.5rem !important;
+    }
+    
+    /* Sidebar in theory page */
+    aside {
+        width: 100%;
+        overflow: hidden;
+    }
+    aside .content-wrapper {
+        position: static !important;
+        padding: 1.2rem !important;
+        margin: 0 0 1rem 0 !important;
+    }
+    aside .content-wrapper h4 {
+        margin-bottom: 0.8rem;
+    }
+    aside .content-wrapper ul {
+        display: flex;
+        flex-direction: row;
+        gap: 0.8rem;
+        overflow-x: auto;
+        padding-bottom: 0.5rem;
+        white-space: nowrap;
+    }
+    aside .content-wrapper ul li {
+        margin-bottom: 0 !important;
+    }
+    aside .content-wrapper ul li a {
+        display: inline-block;
+        padding: 0.4rem 0.8rem;
+        border-radius: 20px;
+        background: rgba(255, 255, 255, 0.03);
+        border: 1px solid var(--glass-border);
+    }
+    [data-theme='light'] aside .content-wrapper ul li a {
+        background: rgba(0, 0, 0, 0.02);
+    }
+    aside .content-wrapper ul li a[style*="color: var(--accent)"] {
+        background: var(--primary) !important;
+        color: white !important;
+        border-color: var(--primary);
+    }
+    
+    /* Scrollable formulas & tables */
+    .formula-box, .theory-text table {
+        overflow-x: auto;
+        display: block;
+        max-width: 100%;
+        -webkit-overflow-scrolling: touch;
+    }
+    .theory-text table {
+        white-space: nowrap;
+    }
+    
+    /* Content wrapper */
+    .content-wrapper {
+        padding: 1.5rem;
+        margin: 1rem 0;
+    }
+    
+    /* Tab Buttons in Exams Page */
+    .tabs-container {
+        padding-bottom: 0.5rem;
+    }
+    .tab-btn {
+        font-size: 0.95rem !important;
+        padding: 0.4rem 0.8rem !important;
+    }
+    
+    /* Quiz elements */
+    .quiz-container {
+        padding: 0;
+    }
+    .option {
+        padding: 1rem;
+        font-size: 0.95rem;
+    }
+    
+    /* Timer box sticky placement on mobile */
+    #timer-box {
+        top: var(--nav-height) !important;
+    }
+    
+    #timer-box .content-wrapper {
+        padding: 0.8rem !important;
+    }
+    
+    /* Confirmation grid */
+    div[style*="display: grid; grid-template-columns: 1fr 1fr"] {
+        grid-template-columns: 1fr !important;
+    }
+    
+    /* Scale down long headings & KaTeX scrolling */
+    main h1, main.container h1 {
+        font-size: 1.8rem !important;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+    .theory-text h1, .theory-text h2, .theory-text h3 {
+        font-size: 1.4rem !important;
+    }
+    .katex-display, .katex {
+        overflow-x: auto !important;
+        overflow-y: hidden !important;
+        display: block !important;
+        max-width: 100% !important;
+        -webkit-overflow-scrolling: touch;
+    }
+}
+
+@media (max-width: 480px) {
+    /* Scale the calculator container to fit mobile screens */
+    .calculator-wrapper {
+        padding: 3rem 0;
+        overflow: hidden;
+    }
+    
+    #main-calc-container {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin-top: 30px !important;
+    }
+    
+    .fx580 {
+        transform: scale(0.85);
+        transform-origin: top center;
+        margin-bottom: -60px; /* offset the scaled down empty space */
+    }
+
+    #floating-calc-container {
+        transform: scale(0.6) !important;
+        bottom: 10px;
+        right: 10px;
+    }
+}
+
+@media (max-width: 380px) {
+    .fx580 {
+        transform: scale(0.75);
+        margin-bottom: -100px;
+    }
+}
+
 
 /* Calculator System */
 :root {

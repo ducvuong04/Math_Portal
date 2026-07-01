@@ -28,7 +28,7 @@
                 <span class="material-icons-round">auto_awesome</span>
                 Math<span>Portal</span>
             </a>
-            <ul class="nav-links">
+            <ul class="nav-links" id="nav-links">
                 <li><a href="<?php echo BASE_URL; ?>index.php">Trang chủ</a></li>
                 <li class="has-dropdown">
                     <a href="#" class="dropdown-toggle" onclick="event.preventDefault();">Lý thuyết <span class="material-icons-round" style="font-size: 14px; transition: transform 0.3s; pointer-events: none;">expand_more</span></a>
@@ -94,15 +94,32 @@
                 <?php if(is_teacher()): ?>
                     <li><a href="<?php echo BASE_URL; ?>admin/dashboard.php" style="color: var(--accent);">Quản trị</a></li>
                 <?php endif; ?>
+                
+                <!-- Mobile User Actions (shown inside drawer only) -->
+                <li class="mobile-user-actions" style="margin-top: 1.5rem; padding: 0 0.5rem; width: 100%;">
+                    <?php if(is_logged_in()): ?>
+                        <div style="border-top: 1px solid var(--glass-border); padding-top: 1.5rem; display: flex; flex-direction: column; gap: 0.8rem; width: 100%;">
+                            <span style="font-size: 0.95rem; color: var(--text-muted); text-align: center; display: block;">Chào, <strong><?php echo htmlspecialchars($_SESSION['user']['username']); ?></strong></span>
+                            <a href="<?php echo BASE_URL; ?>logout.php" class="btn btn-outline" style="text-align: center; width: 100%;">Đăng xuất</a>
+                        </div>
+                    <?php else: ?>
+                        <div style="border-top: 1px solid var(--glass-border); padding-top: 1.5rem; display: flex; flex-direction: column; gap: 0.8rem; width: 100%;">
+                            <a href="<?php echo BASE_URL; ?>login.php" class="btn btn-outline" style="text-align: center; width: 100%;">Đăng nhập</a>
+                            <a href="<?php echo BASE_URL; ?>register.php" class="btn btn-primary" style="text-align: center; width: 100%;">Đăng ký</a>
+                        </div>
+                    <?php endif; ?>
+                </li>
             </ul>
-            <div style="display: flex; gap: 1rem; align-items: center;">
-                <?php if(is_logged_in()): ?>
-                    <span style="font-size: 0.9rem; color: var(--text-muted);">Chào, <strong><?php echo $_SESSION['user']['username']; ?></strong></span>
-                    <a href="<?php echo BASE_URL; ?>logout.php" class="btn btn-outline" style="padding: 0.5rem 1rem;">Đăng xuất</a>
-                <?php else: ?>
-                    <a href="<?php echo BASE_URL; ?>login.php" class="btn btn-outline">Đăng nhập</a>
-                    <a href="<?php echo BASE_URL; ?>register.php" class="btn btn-primary">Đăng ký</a>
-                <?php endif; ?>
+            <div class="nav-actions">
+                <div class="desktop-user-actions" style="display: flex; gap: 1rem; align-items: center;">
+                    <?php if(is_logged_in()): ?>
+                        <span style="font-size: 0.9rem; color: var(--text-muted);">Chào, <strong><?php echo $_SESSION['user']['username']; ?></strong></span>
+                        <a href="<?php echo BASE_URL; ?>logout.php" class="btn btn-outline" style="padding: 0.5rem 1rem;">Đăng xuất</a>
+                    <?php else: ?>
+                        <a href="<?php echo BASE_URL; ?>login.php" class="btn btn-outline">Đăng nhập</a>
+                        <a href="<?php echo BASE_URL; ?>register.php" class="btn btn-primary">Đăng ký</a>
+                    <?php endif; ?>
+                </div>
 
                 <!-- Theme Toggle -->
                 <div class="theme-switch-wrapper" style="margin-right: 0; margin-left: 1rem;">
@@ -114,6 +131,12 @@
                         </div>
                     </label>
                 </div>
+
+                <!-- Mobile Menu Button -->
+                <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle Menu">
+                    <span class="material-icons-round icon-menu">menu</span>
+                    <span class="material-icons-round icon-close" style="display: none;">close</span>
+                </button>
             </div>
         </div>
     </nav>
